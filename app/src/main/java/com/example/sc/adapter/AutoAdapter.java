@@ -7,7 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.example.sc.myapplication.R;
+
+import com.example.sc.R;
 
 import java.util.ArrayList;
 import java.util.List;
